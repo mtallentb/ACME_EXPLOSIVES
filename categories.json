@@ -1,0 +1,24 @@
+{
+    "categories": [
+        {
+            "id": 0,
+            "name": "Fireworks"
+        },
+        {
+            "id": 1,
+            "name": "Demolition"
+        },
+        {
+            "id": 2,
+            "name": "Small Explosives"
+        },
+        {
+            "id": 3,
+            "name": "Sparklers"
+        },
+        {
+            "id": 4,
+            "name": "Snakes"
+        }
+    ]
+}

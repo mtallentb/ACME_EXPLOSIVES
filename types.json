@@ -1,0 +1,28 @@
+{
+ "types": [
+     {
+        "id": 0,
+        "category": 0,
+        "name": "Personal",
+        "description": "Fireworks intended for recreational use during holiday celebrations"
+    },
+    {
+        "id": 1,
+        "category": 1,
+        "name": "Construction",
+        "description": "Explosives intended for industrial mining"
+    },
+    {
+        "id": 2,
+        "category": 2,
+        "name": "Pranks",
+        "description": "Small bombs made to explode toilets and ant hills."
+    },
+    {
+        "id": 3,
+        "category": 3,
+        "name": "Kids",
+        "description": "Fireworks that produce small flames that won't blow up the house"
+    }
+  ]
+}
